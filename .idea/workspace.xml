@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3760f8cc-b15e-4ee8-8445-8345ecd1dff6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Adivinar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/Adivinar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/out/production/Adivinar/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/out/production/Adivinar/Niveles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/out/production/Adivinar/OpMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/src/Niveles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adivinar/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/Busca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Busca/src/Operaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/Cocineros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/src/Agregar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/src/Cocinero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/src/ImprimirCocinerosDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cocineros/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/OperacionesSobreCarga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperacionesSobreCarga/src/Operaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/PaqueteriaCostos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/src/Costo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/src/Mostrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/src/PaqueteDeEnvio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaqueteriaCostos/src/Registrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/PortonAzul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/out/production/PortonAzul/Adeudos$Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/out/production/PortonAzul/Adeudos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/out/production/PortonAzul/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/out/production/PortonAzul/Mostrar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/out/production/PortonAzul/OpMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/out/production/PortonAzul/Registrar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/Adeudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/CalcularPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/Mostrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/MostrarDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PortonAzul/src/Registrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ROOT134.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mostrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/Temperatura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/out/production/Temperatura/CalcularTemperatura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/out/production/Temperatura/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/out/production/Temperatura/OpMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/out/production/Temperatura/Paciente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/out/production/Temperatura/Registro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/out/production/Temperatura/Temperatura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/src/CalcularTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/src/OpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/src/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/src/Registro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperatura/src/Temperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sobrecarga/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobrecarga/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P8ZDY6YRHkhyEdGBim51YZEx2y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Wicho/IdeaProjects/Adivinar"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3760f8cc-b15e-4ee8-8445-8345ecd1dff6" name="Changes" comment="" />
+      <created>1682840549741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682840549741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
